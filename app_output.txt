@@ -1,0 +1,22 @@
+Student Name:  Farin     Grade:  80
+Student Name:  Arna     Grade:  73
+Student Name:  Sumaia     Grade:  61
+Student Name:  Aisha     Grade:  92
+Student Name:  Alia     Grade:  63
+Student Name:  John     Grade:  83
+Student Name:  Ahmad     Grade:  73
+Student Name:  Jolie     Grade:  69
+Student Name:  Mikek     Grade:  69
+Student Name:  Rob     Grade:  94
+Average grade: 75.7
+Student Name:  Farin     Grade:  86
+Student Name:  Arna     Grade:  84
+Student Name:  Sumaia     Grade:  86
+Student Name:  Aisha     Grade:  71
+Student Name:  Alia     Grade:  67
+Student Name:  John     Grade:  74
+Student Name:  Ahmad     Grade:  86
+Student Name:  Jolie     Grade:  74
+Student Name:  Mikek     Grade:  68
+Student Name:  Rob     Grade:  73
+Average grade: 76.9
