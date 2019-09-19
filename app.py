@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from mymodules.models import Student
 from mymodules.math_utils import average_grade
 import random
@@ -18,3 +19,6 @@ def main():
 
     print("Average grade: " + str(average_grade(roster)))
 main()
+=======
+
+>>>>>>> b523b2bbca9cb41e171baed9b5d35ba6037d4e61
